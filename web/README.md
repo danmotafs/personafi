@@ -1,0 +1,1 @@
+Frontend application (Next.js)
