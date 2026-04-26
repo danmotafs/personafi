@@ -1,8 +1,19 @@
 # Architecture
 
-Frontend: Next.js  
-Backend: Node.js  
-Blockchain: Solana (Anchor)  
+PersonaFi uses a hybrid architecture:
 
-Flow:
-Wallet → Create Persona → Support Merchant
+## Onchain
+- Solana (Anchor)
+- SPL Token
+
+## Offchain
+- Node.js backend
+- AI (mock for MVP)
+
+## Frontend
+- Next.js
+- Wallet Adapter
+
+## Flow
+
+Wallet → Create Persona → Mint Token → Support Merchant
