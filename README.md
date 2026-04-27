@@ -1,61 +1,84 @@
 # PersonaFi
 
-PersonaFi is a financial infrastructure on Solana that enables informal merchants in Brazil to access digital payments, build customer loyalty, and create AI-powered onchain identities.
+PersonaFi is a SocialFi platform that lets anyone bring real-world street merchants onchain.
 
-> Bringing informal economies onchain through payments, identity, and AI.
+Instead of requiring merchants to adopt crypto directly, users can create digital personas representing real informal vendors and support them financially.
+
+> Turning real-world commerce into a community-driven onchain economy.
 
 ---
 
 ## 🚨 Problem
 
-Millions of informal merchants in Brazil operate outside the digital economy.
+Millions of informal merchants operate outside the digital economy.
 
 They lack:
-- Access to digital payments  
-- Customer retention tools  
-- Online presence  
+- access to digital payments  
+- online presence  
+- financial visibility  
+
+Traditional solutions fail because they require merchants to adopt new technology.
 
 ---
 
 ## 💡 Solution
 
-PersonaFi turns real-world merchants into onchain businesses.
+PersonaFi flips the model.
 
-Each merchant gets:
-- AI-powered digital identity  
-- Solana-based payments  
-- Loyalty tokens (SPL)  
+Instead of onboarding the merchant, we onboard the community around them.
+
+Anyone can:
+- create a digital persona for a real-world merchant  
+- bring them onchain  
+- support them financially  
 
 ---
 
 ## ⚙️ How it works
 
-1. Merchant creates a persona  
-2. A token is minted on Solana  
-3. Customers can support/pay the merchant  
-4. Engagement is tracked onchain  
+1. User connects wallet  
+2. Creates a persona for a real merchant  
+3. A token identity is simulated on Solana  
+4. Community members can support the merchant  
+
+---
+
+## 🎯 Use Case
+
+A user sees a street ice cream vendor.
+
+Instead of just buying once, they:
+- create a persona for the vendor  
+- support them with crypto  
+- help them gain visibility  
 
 ---
 
 ## 🧱 Tech Stack
 
-- Solana + Anchor  
-- SPL Token  
-- Next.js  
-- Node.js  
+- Solana (Devnet)
+- Wallet Adapter (Phantom)
+- Next.js (TypeScript)
+- Node.js (planned backend)
+- Anchor (planned)
 
 ---
 
-## 🧪 Current Status
+## 🧪 MVP Features
 
-MVP built for Solana Hackathon.
-
-- Persona creation flow  
-- Demo payment flow  
-- Some features are simulated  
+- Wallet connection  
+- Persona creation (mocked)  
+- Support interaction (simulated)  
+- UI representing real-world merchants  
 
 ---
 
-## 🎯 Vision
+## 🚀 Vision
 
-Bring millions of informal merchants into the digital economy using crypto.
+Bring millions of informal merchants into the digital economy through community-driven onboarding.
+
+---
+
+## 👤 Author
+
+Daniel Mota
